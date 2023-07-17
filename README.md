@@ -1,0 +1,1 @@
+# checker-minimax-and-pruning
